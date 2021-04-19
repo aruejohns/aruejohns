@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aruejohns
-- 👀 I’m interested in biogeography, disturbance ecology, and 
-- 🌱 I’m currently learning R, primarily
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in biogeography, disturbance ecology, and forest ecology.
+- 🌱 I'm a PhD student at the University of Colorado - Denver, studying integrative & systems biology.
 - 📫 You can reach me via email at annelise.z.rue-johns@ucdenver.edu
 
 <!---
